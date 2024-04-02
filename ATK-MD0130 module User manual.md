@@ -20,8 +20,6 @@ Here are the product basic parameters:
 | Storage Temperature        | -30℃ ~ 80℃                       |
 | Mudule Size                | 41.5mm * 26.3mm                    |
 
-
-
 The electrical parameters are shown in the following table:
 
 | Parameter                  | Describe                           |
@@ -29,16 +27,16 @@ The electrical parameters are shown in the following table:
 | Supply voltage             | 3.3V                               |
 | IO port level              | 3.3V                               |
 | Power dissipation          | 50mA(max)                          |
-| V~OH~                      | 2.64V(Min)                         |
-| V~OL~                      | 0.66V(Max)                         |
-| V~IH~                      | 2.64V(Min)                         |
-| V~IL~                      | 0.66V(Max)                         |
+| V<OH>                      | 2.64V(Min)                         |
+| V<OL>                      | 0.66V(Max)                         |
+| V<IH>                      | 2.64V(Min)                         |
+| V<IL>                      | 0.66V(Max)                         |
 
 ### 1.3 Appearence
 
 The ATK-MD0130 module looks like this:
 
-![](./figures/1.3inchLCD.png)
+![](./figures/1.3inchLCD.png )
 
 ### 1.4 Interface
 
