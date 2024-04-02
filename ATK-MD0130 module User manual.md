@@ -27,10 +27,10 @@ The electrical parameters are shown in the following table:
 | Supply voltage             | 3.3V                               |
 | IO port level              | 3.3V                               |
 | Power dissipation          | 50mA(max)                          |
-| V<OH>                      | 2.64V(Min)                         |
-| V<OL>                      | 0.66V(Max)                         |
-| V<IH>                      | 2.64V(Min)                         |
-| V<IL>                      | 0.66V(Max)                         |
+| V<sub>OH<sub>              | 2.64V(Min)                         |
+| V<sub>OL<sub>              | 0.66V(Max)                         |
+| V<sub>IH<sub>              | 2.64V(Min)                         |
+| V<sub>IL<sub>              | 0.66V(Max)                         |
 
 ### 1.3 Appearence
 
