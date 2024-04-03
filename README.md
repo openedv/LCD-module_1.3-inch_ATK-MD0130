@@ -60,3 +60,4 @@ The ATK-MD0130 module is connected to the external circuit through a 2*4 row pin
 The schematic diagram of the ATK-MD0130 module is shown as follows.
 
 ![](./figures/02_ATK_MD0130_SCH.png)
+<img src="./figures/02_ATK_MD0130_SCH.png" width="400" height="200">
