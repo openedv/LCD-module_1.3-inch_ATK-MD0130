@@ -4,7 +4,7 @@
 
 The ATK-MD0130 module looks like this:
 
-![](../LCD-module_1.3-inch_ATK-MD0130/figures/01_ATK_MD0130_Module_01.png)
+![](./figures/01_ATK_MD0130_Module_01.png)
 
 ### 1.2 Features
 ATK-MD0130 module is a high-performance 1.3 inch LCD module launched by ALIENTEK. The resolution is as high as 240*240 pixels, supporting 16 bit true color display. The module uses ST7789V as the LCD driver chip. The chip is equipped with RAM, without external driver or memory, and the external main control chip only needs SPI interface to light easily drive ATK-MD0130 module.
@@ -59,4 +59,4 @@ The ATK-MD0130 module is connected to the external circuit through a 2*4 row pin
 
 The schematic diagram of the ATK-MD0130 module is shown as follows.
 
-![](../LCD-module_1.3-inch_ATK-MD0130/figures/02_ATK_MD0130_SCH.png)
+![](./figures/02_ATK_MD0130_SCH.png)
