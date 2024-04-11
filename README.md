@@ -40,8 +40,6 @@ The electrical parameters are shown in the following table:
 
 ### 1.4 Interface
 
-The ATK-MD0130 module is connected to the outside through a 2*4 row needle (2.54mm spacing). The module can be directly connected to the ALIENTEK Warship STM32F103 development board and ALIENTEK MiniSTM32H750 development board and other development boards with WIRELESS interface (SPI interface), and for the development board without on-board WIRELESS interface, it can be connected through the dupont line.
-
 The ATK-MD0130 module is connected to the external circuit through a 2*4 row pin (2.54mm spacing). The detailed description as shown in the table below.
 
 | Number    | Name         | Describe                                                                |
