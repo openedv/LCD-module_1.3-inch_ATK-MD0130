@@ -2,7 +2,7 @@
 
 ### 1.1 Appearence
 
-The ATK-MD0130 module looks like this:
+The ATK-MD0130 module looks like this.
 
 <img src="./1_docs/3_figures/01_ATK_MD0130_Module_01.png" width="200" height="250">
 
