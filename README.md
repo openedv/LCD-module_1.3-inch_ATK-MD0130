@@ -26,7 +26,7 @@ Here are the product basic parameters:
 | Storage Temperature        | -30℃ ~ 80℃                       |
 | Mudule Size                | 41.5mm * 26.3mm                    |
 
-The electrical parameters are shown in the following table:
+The electrical parameters are shown in the following table.
 
 | Parameter                  | Describe                           |
 | -------------------------- | ---------------------------------- |        
@@ -58,5 +58,4 @@ The ATK-MD0130 module is connected to the external circuit through a 2*4 row pin
 The schematic diagram of the ATK-MD0130 module is shown as follows.
 
 <img src="./1_docs/3_figures/02_ATK_MD0130_SCH.png">
-
 
