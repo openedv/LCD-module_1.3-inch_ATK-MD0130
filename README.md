@@ -12,7 +12,7 @@ ATK-MD0130 module is a high-performance 1.3 inch LCD module launched by ALIENTEK
 ### 1.3 Parameter
 
 Here are the product basic parameters: 
-| Parameter                  | Describe                           |
+| Parameter                  | Description                      |
 | -------------------------- | ---------------------------------- |
 | Communication Interface    | Four-wire SPI                      |
 | Color Format               | RGB565                             |
@@ -28,15 +28,15 @@ Here are the product basic parameters:
 
 The electrical parameters are shown in the following table.
 
-| Parameter                  | Describe                           |
-| -------------------------- | ---------------------------------- |        
-| Supply voltage             | 3.3V                               |
-| IO port level              | 3.3V                               |
-| Power dissipation          | 50mA(max)                          |
-| V<sub>OH<sub>              | 2.64V(Min)                         |
-| V<sub>OL<sub>              | 0.66V(Max)                         |
-| V<sub>IH<sub>              | 2.64V(Min)                         |
-| V<sub>IL<sub>              | 0.66V(Max)                         |
+| Parameter         | Description |
+| ----------------- | ----------- |
+| Supply voltage    | 3.3V        |
+| IO port level     | 3.3V        |
+| Power dissipation | 50mA(max)   |
+| V<sub>OH<sub>     | 2.64V(Min)  |
+| V<sub>OL<sub>     | 0.66V(Max)  |
+| V<sub>IH<sub>     | 2.64V(Min)  |
+| V<sub>IL<sub>     | 0.66V(Max)  |
 
 ### 1.4 Interface
 
